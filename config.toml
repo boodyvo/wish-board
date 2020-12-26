@@ -1,4 +1,4 @@
-baseurl = "."
+baseurl = "https://angry-darwin-b0c32f.netlify.app"
 title = "Bucket list"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
