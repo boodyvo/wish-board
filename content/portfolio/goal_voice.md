@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/goal_voice.jpeg"
+image = "img/portfolio/goal_voice.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "Improve my voice and singing skill"

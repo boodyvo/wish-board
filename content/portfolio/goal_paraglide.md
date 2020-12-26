@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "img/portfolio/goal_paraglide.png"
+image = "img/portfolio/goal_paraglide.jpg"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
 title = "Learn paragliding"
