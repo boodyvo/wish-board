@@ -42,7 +42,7 @@ googleAnalytics = "UA-133318295-1"
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Bucket list"
-  url = "bucketlist/"
+  url = "portfolio/"
   home = true
 
   [[params.navlinks]]
